@@ -6,11 +6,9 @@ This project intends to take those LASS models, and add them to the NPC spawn po
 
 Given the nature of the project and my pitiful computer, I'd appreciate anyone that is willing to help who uses LASS, preferibly with a non-low population faction (at least 0.5, maybe 1.0). You only need to install the current project and see how it works and feels, or how it doesn't and what.
 
-What you need:
+Requirements:
 -War Nymph: <https://www.moddb.com/mods/stalker-anomaly/addons/war-nymph>
 -LASS: <https://github.com/Paint-Thinner/Ladies-and-Sister-Stalkers-LASS>
--The project: https://drive.proton.me/urls/SGPZP9NR1M#14snb2T0zQLz
-
 
 Current state of the project:
 -Loner character template file. You should find female loners at every rank.
