@@ -1,6 +1,6 @@
 # LASS population addon WIP
 
-You probably know of the mods Women of the Zone and Dux's Innumerable Character kits. Both add female NPCs, but their selection is limited to Hip clones and SEVAs.
+Two mods for Stalker Anomaly add female NPCs: Women of the Zone and Dux's Innumerable Character kits. But their selection is limited to Hip clones and SEVAs.
 
 LASS is an addon for War Nymph, intended to let you play as female. And for 3rd person camera, it reworked vanilla models into female ones. But they're only used by the player. We're talking everything from novice jackets to nosorogs, in every faction.
 This project intends to take those LASS models, and add them to the NPC spawn pool.
