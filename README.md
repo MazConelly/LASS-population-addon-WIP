@@ -5,8 +5,6 @@ Two mods for Stalker Anomaly add female NPCs: Women of the Zone and Dux's Innume
 LASS is an addon for War Nymph, intended to let you play as female. And for 3rd person camera, it reworked vanilla models into female ones. But they're only used by the player. We're talking everything from novice jackets to nosorogs, in every faction.
 This project intends to take those LASS models, and add them to the NPC spawn pool.
 
-Given the nature of the project and my pitiful computer, I'd appreciate anyone that is willing to help who uses LASS, preferibly with a non-low population faction (at least 0.5, maybe 1.0). You only need to install the current project and see how it works and feels, or how it doesn't and what.
-
 
 Requirements:
 
@@ -15,18 +13,18 @@ Requirements:
 -War Nymph: https://www.moddb.com/mods/stalker-anomaly/addons/war-nymph
 
 
-Current state of the project:
+Done:
 
--Loner character template file. You should find female loners at every rank.
+-Loner character_desc_general file. You should find female loners at every rank.
 
--Fixed models to provide NPCs with the correct protection.
+-Models fixed to provide NPCs the correct protection.
 
--Death_outfits.ltx file finished. NPCs should drop the respective outfit to their model.
+-Death_outfits.ltx file. NPCs should drop the respective outfit to their model.
 
 
 To do:
 
--All other factions.
+-character_desc_general files for all other factions.
 
 -Proper audio. Anomaly has its default female set for Hip, but that's not enough.
 
