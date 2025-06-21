@@ -25,6 +25,7 @@ Current state of the project:
 
 
 To do:
+
 -All other factions.
 
 -Proper audio. Anomaly has its default female set for Hip, but that's not enough.
@@ -35,6 +36,7 @@ Women of the Zone has an ecolog_f set we could use. LASS also has an addon for e
 
 
 Maybes:
+
 -Service NPCs. Techs, traders, etc. We can fill the gaps like WotZ did in the Dark Valley bandit HQ with a female medic, but the rest is harder as there are already named NPCs. Maybe make them take turns with something like Semi Radiant AI?
 
 -Named NPCs. This includes non-service NPCs: guards, roaming stalkers... for fleshing out the population.
