@@ -26,6 +26,8 @@ To do:
 
 -character_desc_general files for all other factions.
 
+-Proper name files.
+
 -Proper audio. Anomaly has its default female set for Hip, but that's not enough.
 
 Women of the Zone has an ecolog_f set we could use. LASS also has an addon for either English or Russian voice, but I haven't checked if they're ready to use for NPCs.
