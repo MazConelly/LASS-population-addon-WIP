@@ -1,4 +1,4 @@
-<!-- RANK 0 -->
+<!-- ============= RANK 0 ============= -->
 <!-- 5 cs jacket -->
 <specific_character id="sim_default_csky_0_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_csky_0.xml"
@@ -36,7 +36,7 @@
 </specific_character>
 
 
-<!-- RANK 1 -->
+<!-- ============= RANK 1 ============= -->
 <!-- 3 cs light -->
 <specific_character id="sim_default_csky_1_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_csky_1.xml"
@@ -90,7 +90,7 @@
 </specific_character>
 
 
-<!-- RANK 2 -->
+<!-- ============= RANK 2 ============= -->
 <!-- 1 cs light -->
 <specific_character id="sim_default_csky_2_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_csky_2.xml"
@@ -174,7 +174,7 @@
 </specific_character>
 
 
-<!-- RANK 3 -->
+<!-- ============= RANK 3 ============= -->
 <!-- 1 cs light -->
 <specific_character id="sim_default_csky_3_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_csky_3.xml"
@@ -290,7 +290,7 @@
 </specific_character>
 
 
-<!-- RANK 4 -->
+<!-- ============= RANK 4 ============= -->
 <!-- 1 cs light -->
 <specific_character id="sim_default_csky_4_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_csky_4.xml"

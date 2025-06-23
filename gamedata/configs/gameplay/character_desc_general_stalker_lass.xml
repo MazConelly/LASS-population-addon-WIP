@@ -213,7 +213,7 @@
 </specific_character>
 
 
-<!-- ============= RANK 1 -->
+<!-- ============= RANK 1 ============= -->
 <!-- jacket, 10-->
 <specific_character id="sim_default_stalker_1_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_1.xml"
@@ -745,7 +745,7 @@
     <visual>actors\o_sunrise\stalker_f_neutral2apex</visual>
 </specific_character>
 
-<!-- rank 1, 1 travel_outfit suit -->
+<!-- 1 travel_outfit suit -->
 <specific_character id="sim_default_stalker_1_lass_74" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_1.xml"
     <icon>ui_inGame2_neutral_2</icon>
@@ -753,7 +753,7 @@
     <visual>actors\o_explorer\stalker_f_neutral_6</visual>
 </specific_character>
 
-<!-- rank 1, 1 nomad_outfit suit -->
+<!-- 1 nomad_outfit suit -->
 <specific_character id="sim_default_stalker_1_lass_75" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_1.xml"
     <icon>ui_inGame2_nomad</icon>
@@ -1069,7 +1069,7 @@
     <visual>actors\o_sunrise\stalker_f_neutral2apex</visual>
 </specific_character>
 
-<!-- rank 2, 1 travel_outfit suit -->
+<!-- 1 travel_outfit suit -->
 <specific_character id="sim_default_stalker_2_default_41" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
@@ -1249,7 +1249,7 @@
     <visual>actors\o_protoskeleton\stalker_f_exo_proto</visual>
 </specific_character>
 
-<!-- RANK 4 ============= -->
+<!-- ============= RANK 4 ============= -->
 
 <!-- 2 seva -->
 <specific_character id="sim_default_stalker_4_lass_0" team_default = "1">
