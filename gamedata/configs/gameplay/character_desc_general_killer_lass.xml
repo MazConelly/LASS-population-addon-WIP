@@ -45,7 +45,6 @@
     <visual>actors\o_lcs\stalker_f_lcs_merc_jackal</visual>
 </specific_character>
 
-
 <!-- 1 merc sts sun -->
 <specific_character id="sim_default_killer_0_lass_" team_default = "1">
 #include "gameplay\profiles\character_desc_killer_0.xml"
@@ -318,7 +317,6 @@
 
 
 <!-- ============= RANK 3 ============= -->
-
 <!-- 1 merc ibaz -->
 <specific_character id="sim_default_killer_3_lass_" team_default = "1">
 #include "gameplay\profiles\character_desc_killer_3.xml"
@@ -371,7 +369,6 @@
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_beril\stalker_f_merc_beril</visual>
 </specific_character>
-
 
 <!-- ============= RANK 4 ============= -->
 
