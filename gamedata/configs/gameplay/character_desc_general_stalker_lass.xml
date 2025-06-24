@@ -1249,6 +1249,14 @@
     <visual>actors\o_protoskeleton\stalker_f_exo_proto</visual>
 </specific_character>
 
+<!-- 1 hybrid -->
+<specific_character id="sim_default_stalker_3_lass_22" team_default = "1">
+#include "gameplay\profiles\character_desc_stalker_3.xml"
+    <icon>ui_inGame2_neutral_nauchniy</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_seva_hybrid</visual>
+</specific_character>
+
 
 <!-- ============= RANK 4 ============= -->
 
@@ -1304,4 +1312,12 @@
     <icon>ui_inGame2_neutral_4</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_exoskeleton\stalker_f_exo</visual>
+</specific_character>
+
+<!-- 1 hybrid -->
+<specific_character id="sim_default_stalker_4_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_stalker_4.xml"
+    <icon>ui_inGame2_neutral_nauchniy</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_seva_hybrid</visual>
 </specific_character>
