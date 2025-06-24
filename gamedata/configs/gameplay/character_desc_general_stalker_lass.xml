@@ -768,7 +768,7 @@
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_nbc\fem_nbc_stalker</visual>
 </specific_character>
-    
+
 
 <!-- ============= RANK 2 ============= -->
 <!-- sunrise 10-->
@@ -1248,6 +1248,7 @@
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_protoskeleton\stalker_f_exo_proto</visual>
 </specific_character>
+
 
 <!-- ============= RANK 4 ============= -->
 
