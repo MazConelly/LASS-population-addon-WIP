@@ -1,28 +1,28 @@
 <!-- ============= RANK 0 ============= -->
 
 <!-- 4 X-18 suit -->
-<specific_character id="sim_default_monolith_0_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_0_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_0.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_0_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_0_lass_1" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_0.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_0_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_0_lass_2" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_0.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_0_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_0_lass_3" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_0.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -30,23 +30,22 @@
 </specific_character>
 
 <!-- 2 nbc -->
-<specific_character id="sim_default_monolith_0_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_0_lass_4" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_0.xml"
     <icon>ui_inGame2_monolith2_gp5</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_nbc\fem_nbc_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_0_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_0_lass_5" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_0.xml"
     <icon>ui_inGame2_monolith2_gp5</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_nbc\fem_nbc_mono</visual>
 </specific_character>
-
 
 <!-- 1 monolith coat -->
-<specific_character id="sim_default_monolith_0_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_0_lass_6" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_0.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -56,53 +55,51 @@
 
 <!-- ============= RANK 1 ============= -->
 <!-- 4 X-18 suit -->
-<specific_character id="sim_default_monolith_1_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_1_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_1.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_1_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_1_lass_1" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_1.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_1_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_1_lass_2" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_1.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_1_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_1_lass_3" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_1.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
-
 
 <!-- 2 nbc -->
-<specific_character id="sim_default_monolith_1_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_1_lass_4" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_1.xml"
     <icon>ui_inGame2_monolith2_gp5</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_nbc\fem_nbc_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_1_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_1_lass_5" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_1.xml"
     <icon>ui_inGame2_monolith2_gp5</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_nbc\fem_nbc_mono</visual>
 </specific_character>
-
 
 <!-- 1 monolith coat -->
-<specific_character id="sim_default_monolith_1_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_1_lass_6" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_1.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -112,35 +109,35 @@
 
 <!-- ============= RANK 2 ============= -->
 <!-- 5 X-18 suit -->
-<specific_character id="sim_default_monolith_2_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_2_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_2.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_2_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_2_lass_1" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_2.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_2_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_2_lass_2" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_2.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_2_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_2_lass_3" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_2.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_2_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_2_lass_4" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_2.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -148,14 +145,14 @@
 </specific_character>
 
 <!-- 2 nbc -->
-<specific_character id="sim_default_monolith_2_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_2_lass_5" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_2.xml"
     <icon>ui_inGame2_monolith2_gp5</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_nbc\fem_nbc_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_2_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_2_lass_6" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_2.xml"
     <icon>ui_inGame2_monolith2_gp5</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -163,14 +160,14 @@
 </specific_character>
 
 <!-- 2 mono seva -->
-<specific_character id="sim_default_monolith_2_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_2_lass_7" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_2.xml"
     <icon>ui_inGame2_monolit_1</icon>
     <snd_config>characters_voice\human\monolith_3\</snd_config>
     <visual>actors\o_seva\stalker_f_mono_seva</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_2_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_2_lass_8" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_2.xml"
     <icon>ui_inGame2_monolit_1</icon>
     <snd_config>characters_voice\human\monolith_3\</snd_config>
@@ -178,7 +175,7 @@
 </specific_character>
 
 <!-- 1 monolith coat -->
-<specific_character id="sim_default_monolith_2_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_2_lass_9" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_2.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -188,21 +185,21 @@
 
 <!-- ============= RANK 3 ============= -->
 <!-- 3 X-18 suit -->
-<specific_character id="sim_default_monolith_3_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_3_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_3.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_3_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_3_lass_1" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_3.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_3_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_3_lass_2" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_3.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -210,7 +207,7 @@
 </specific_character>
 
 <!-- 1 mono seva -->
-<specific_character id="sim_default_monolith_3_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_3_lass_3" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_3.xml"
     <icon>ui_inGame2_monolit_1</icon>
     <snd_config>characters_voice\human\monolith_3\</snd_config>
@@ -218,7 +215,7 @@
 </specific_character>
 
 <!-- 1 mono seva light -->
-<specific_character id="sim_default_monolith_3_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_3_lass_4" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_3.xml"
     <icon>ui_inGame2_monolit_1</icon>
     <snd_config>characters_voice\human\monolith_3\</snd_config>
@@ -226,7 +223,7 @@
 </specific_character>
 
 <!-- 1 monolith coat -->
-<specific_character id="sim_default_monolith_3_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_3_lass_5" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_3.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -234,7 +231,7 @@
 </specific_character>
 
 <!-- 1 mono proto -->
-<specific_character id="sim_default_monolith_3_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_3_lass_6" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_3.xml"
     <icon>ui_inGame2_monolith_proto</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -242,7 +239,7 @@
 </specific_character>
 
 <!-- 1 mono skat -->
-<specific_character id="sim_default_monolith_3_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_3_lass_7" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_3.xml"
     <icon>ui_inGame2_stalker_bandit_skat</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -250,14 +247,14 @@
 </specific_character>
 
 <!-- 2 monolith radsuit -->
-<specific_character id="sim_default_monolith_3_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_3_lass_8" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_3.xml"
     <icon>ui_inGame2_monolit_3</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_exolight\stalker_f_exolight_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_3_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_3_lass_9" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_3.xml"
     <icon>ui_inGame2_monolit_3</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -267,7 +264,7 @@
 
 <!-- ============= RANK 4 ============= -->
 <!-- 1 X-18 suit -->
-<specific_character id="sim_default_monolith_4_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_4_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_4.xml"
     <icon>ui_inGame2_monolit_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -275,7 +272,7 @@
 </specific_character>
 
 <!-- <!-- 1 monolith coat -->
-<specific_character id="sim_default_monolith_4_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_4_lass_1" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_4.xml"
     <icon>ui_inGame2_monolit_2</icon>
 	<terrain_sect>stalker_terrain</terrain_sect>
@@ -284,7 +281,7 @@
 </specific_character>
 
 <!-- 1 mono seva light -->
-<specific_character id="sim_default_monolith_4_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_4_lass_2" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_4.xml"
     <icon>ui_inGame2_monolit_1</icon>
     <snd_config>characters_voice\human\monolith_3\</snd_config>
@@ -292,7 +289,7 @@
 </specific_character>
 
 <!-- 1 mono proto -->
-<specific_character id="sim_default_monolith_4_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_4_lass_3" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_4.xml"
     <icon>ui_inGame2_monolith_proto</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -300,7 +297,7 @@
 </specific_character>
 
 <!-- 1 mono skat -->
-<specific_character id="sim_default_monolith_4_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_4_lass_4" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_4.xml"
     <icon>ui_inGame2_stalker_bandit_skat</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -308,14 +305,14 @@
 </specific_character>
 
 <!-- 2 monolith radsuit -->
-<specific_character id="sim_default_monolith_4_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_4_lass_5" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_4.xml"
     <icon>ui_inGame2_monolit_3</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_exolight\stalker_f_exolight_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_4_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_4_lass_6" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_4.xml"
     <icon>ui_inGame2_monolit_3</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -323,14 +320,14 @@
 </specific_character>
 
 <!-- 2 mono exo -->
-<specific_character id="sim_default_monolith_4_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_4_lass_7" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_4.xml"
     <icon>ui_inGame2_monolit_4</icon>
     <snd_config>characters_voice\human\monolith_3\</snd_config>
     <visual>actors\o_exoskeleton\stalker_f_exo_mono</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_4_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_4_lass_8" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_4.xml"
     <icon>ui_inGame2_monolit_4</icon>
     <snd_config>characters_voice\human\monolith_3\</snd_config>
@@ -338,7 +335,7 @@
 </specific_character>
 
 <!-- 2 mono nosorog -->
-<specific_character id="sim_default_monolith_4_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_4_lass_9" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_4.xml"
     <icon>ui_inGame2_nosorog</icon>
 	<terrain_sect>stalker_terrain</terrain_sect>
@@ -346,7 +343,7 @@
     <visual>actors\o_nosrog\stalker_f_mono_nosrog</visual>
 </specific_character>
 
-<specific_character id="sim_default_monolith_4_lass_" team_default = "1">
+<specific_character id="sim_default_monolith_4_lass_10" team_default = "1">
 #include "gameplay\profiles\character_desc_monolith_4.xml"
     <icon>ui_inGame2_nosorog</icon>
 	<terrain_sect>stalker_terrain</terrain_sect>

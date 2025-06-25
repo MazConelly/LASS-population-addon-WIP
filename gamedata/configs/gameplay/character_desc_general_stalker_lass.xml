@@ -772,70 +772,70 @@
 
 <!-- ============= RANK 2 ============= -->
 <!-- sunrise 10-->
-<specific_character id="sim_default_stalker_2_default_0" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral_2</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_1" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_1" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral_2</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_2" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_2" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral_2</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_3" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_3" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral_2</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_4" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_4" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral_2</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_5" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_5" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral_2</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_6" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_6" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral_2</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_7" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_7" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral_2</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_8" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_8" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral_2</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_9" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_9" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -845,35 +845,35 @@
 <!-- sunrise variants, 5 each-->
 
 <!-- Bear stalker suit -->
-<specific_character id="sim_default_stalker_2_default_10" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_10" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2_mask</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2a</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_11" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_11" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2a</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_12" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_12" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral_2</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_13" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_13" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral_2</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_14" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_14" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -881,35 +881,35 @@
 </specific_character>
 
 <!-- Graphite stalker suit -->
-<specific_character id="sim_default_stalker_2_default_15" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_15" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2_mask</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2b</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_16" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_16" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2b</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_17" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_17" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2b</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_18" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_18" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2b</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_19" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_19" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -917,35 +917,35 @@
 </specific_character>
 
 <!-- Drought stalker suit -->
-<specific_character id="sim_default_stalker_2_default_20" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_20" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2_mask</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2c_merc</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_21" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_21" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2c_merc</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_22" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_22" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2c_merc</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_23" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_23" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2c_merc</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_24" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_24" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -953,35 +953,35 @@
 </specific_character>
 
 <!-- Tigerstripe stalker suit -->
-<specific_character id="sim_default_stalker_2_default_25" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_25" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2_mask</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2d</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_26" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_26" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2d</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_27" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_27" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2d</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_28" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_28" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2d</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_29" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_29" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -989,35 +989,35 @@
 </specific_character>
 
 <!-- Vineleaf stalker suit -->
-<specific_character id="sim_default_stalker_2_default_30" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_30" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2_mask</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2e</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_31" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_31" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2e</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_32" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_32" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2e</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_33" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_33" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2e</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_34" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_34" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -1025,35 +1025,35 @@
 </specific_character>
 
 <!-- Salamander stalker suit -->
-<specific_character id="sim_default_stalker_2_default_35" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_35" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2_mask</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2g</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_36" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_36" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2g</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_37" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_37" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2g</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_38" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_38" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\o_sunrise\stalker_f_neutral2g</visual>
 </specific_character>
 
-<specific_character id="sim_default_stalker_2_default_39" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_39" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -1062,7 +1062,7 @@
 
 <!-- Predator stalker suit -->
 <!-- Only one spawn in the whole file it seems -->
-<specific_character id="sim_default_stalker_2_default_40" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_40" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2_mask</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
@@ -1070,7 +1070,7 @@
 </specific_character>
 
 <!-- 1 travel_outfit suit -->
-<specific_character id="sim_default_stalker_2_default_41" team_default = "1">
+<specific_character id="sim_default_stalker_2_lass_41" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_2.xml"
     <icon>ui_inGame2_neutral_2</icon>
     <snd_config>characters_voice\human\woman\</snd_config>

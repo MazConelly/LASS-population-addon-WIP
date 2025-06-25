@@ -648,7 +648,7 @@
     <visual>actors\o_nosrog\stalker_f_dolg_nosrog</visual>
 </specific_character>
 
-<specific_character id="sim_default_duty_4_lass_1" team_default = "1">
+<specific_character id="sim_default_duty_4_lass_11" team_default = "1">
 #include "gameplay\profiles\character_desc_dolg_4.xml"
     <icon>ui_inGame2_nosorog</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
