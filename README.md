@@ -15,16 +15,16 @@ Requirements:
 
 Done:
 
--Loner character_desc_general file. You should find female loners at every rank.
+-character_desc_general files. You should find female loners at every rank for every faction.
 
 -Models fixed to provide NPCs the correct protection.
+
+-Missing LASS models.
 
 -Death_outfits.ltx file. NPCs should drop the respective outfit to their model.
 
 
 To do:
-
--character_desc_general files for all other factions.
 
 -Proper name files.
 
@@ -39,10 +39,8 @@ Maybes:
 
 -Service NPCs. Techs, traders, etc. We can fill the gaps like WotZ did in the Dark Valley bandit HQ with a female medic, but the rest is harder as there are already named NPCs. Maybe make them take turns with something like Semi Radiant AI?
 
--Named NPCs. This includes non-service NPCs: guards, roaming stalkers... for fleshing out the population.
+-Named NPCs. This includes non-service NPCs: guards, task givers, roaming stalkers... for fleshing out the population.
 
--Tasks. Simply as a way to justify those NPCs. The only current idea is this one: https://discord.com/channels/456765861953536020/1385377776118530058/1385382734993559714
-
--Mod patches. This depends on the mod. Duty Expansion could have Anna use one of the LASS models as asked by someone else, for consistency reasons.
+-Mod patches. This depends on the mod and extension of the patching. Duty Expansion could have Anna use one of the LASS models as asked by someone else, for consistency reasons. Kolin could be patched so half the LCS wearing female mercs use its model.
 
 -????
