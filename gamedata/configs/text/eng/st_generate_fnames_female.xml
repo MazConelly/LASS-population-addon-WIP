@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!-- normal -->
+	<string id="name_stalker_f_0">
+		<text>Ada</text>
+	</string>
+	<string id="name_stalker_f_1">
+		<text>Aleksandra</text>
+	</string>
+	<string id="name_stalker_f_2">
+		<text>Maria</text>
+	</string>
+	<string id="name_stalker_f_3">
+		<text>Alyona</text>
+	</string>
+	<string id="name_stalker_f_4">
+		<text>Amira</text>
+	</string>
+	<string id="name_stalker_f_5">
+		<text>Anastasia</text>
+	</string>
+	<string id="name_stalker_f_6">
+		<text>Angela</text>
+	</string>
+	<string id="name_stalker_f_7">
+		<text>Anna</text>
+	</string>
+	<string id="name_stalker_f_8">
+		<text>Darya</text>
+	</string>
+	<string id="name_stalker_f_9">
+		<text>Izabella</text>
+	</string>
+	<string id="name_stalker_f_10">
+		<text>Katerina</text>
+	</string>
+	<string id="name_stalker_f_11">
+		<text>Liliya</text>
+	</string>
+	<string id="name_stalker_f_12">
+		<text>Sofia</text>
+	</string>
+	<string id="name_stalker_f_13">
+		<text>Natalya</text>
+	</string>
+	<string id="name_stalker_f_14">
+		<text>Olga</text>
+	</string>
+	<string id="name_stalker_f_15">
+		<text>Roksana</text>
+	</string>
+	<string id="name_stalker_f_16">
+		<text>Svetlana</text>
+	</string>
+	<string id="name_stalker_f_17">
+		<text>Valeria</text>
+	</string>
+	<string id="name_stalker_f_18">
+		<text>Vera</text>
+	</string>
+	<string id="name_stalker_f_19">
+		<text>Veronika</text>
+	</string>
+	<string id="name_stalker_f_20">
+		<text>Julia</text>
+	</string>
+	<string id="name_stalker_f_21">
+		<text>Yuliana</text>
+	</string>
+	<!-- scientists -->
+	<string id="name_science_f_0">
+		<text>Ada</text>
+	</string>
+	<string id="name_science_f_1">
+		<text>Aleksandra</text>
+	</string>
+	<string id="name_science_f_2">
+		<text>Alexandra</text>
+	</string>
+	<string id="name_science_f_3">
+		<text>Alyona</text>
+	</string>
+	<string id="name_science_f_4">
+		<text>Amira</text>
+	</string>
+	<string id="name_science_f_5">
+		<text>Anastasia</text>
+	</string>
+	<string id="name_science_f_6">
+		<text>Angela</text>
+	</string>
+	<string id="name_science_f_7">
+		<text>Anna</text>
+	</string>
+	<string id="name_science_f_8">
+		<text>Darya</text>
+	</string>
+	<string id="name_science_f_9">
+		<text>Izabella</text>
+	</string>
+	<string id="name_science_f_10">
+		<text>Katerina</text>
+	</string>
+	<string id="name_science_f_11">
+		<text>Liliya</text>
+	</string>
+	<string id="name_science_f_12">
+		<text>Katerina</text>
+	</string>
+	<string id="name_science_f_13">
+		<text>Natalya</text>
+	</string>
+	<string id="name_science_f_14">
+		<text>Olga</text>
+	</string>
+	<string id="name_science_f_15">
+		<text>Roksana</text>
+	</string>
+	<string id="name_science_f_16">
+		<text>Svetlana</text>
+	</string>
+	<string id="name_science_f_17">
+		<text>Valeriya</text>
+	</string>
+	<string id="name_science_f_18">
+		<text>Vera</text>
+	</string>
+	<string id="name_science_f_19">
+		<text>Veronika</text>
+	</string>
+	<string id="name_science_f_20">
+		<text>Yulia</text>
+	</string>
+	<string id="name_science_f_21">
+		<text>Yuliana</text>
+	</string>
+</string_table>	
