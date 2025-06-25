@@ -270,7 +270,7 @@
 #include "gameplay\profiles\character_desc_ecolog_3f.xml"
     <icon>ui_inGame2_merc_2</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <!-- 1 merc sts wolven -->
@@ -278,7 +278,7 @@
 #include "gameplay\profiles\character_desc_ecolog_3f.xml"
     <icon>ui_inGame2_mercsun_old</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
 </specific_character>
 
 <!-- 1 eco seva guard -->
@@ -303,7 +303,7 @@
 #include "gameplay\profiles\character_desc_ecolog_4f.xml"
     <icon>ui_inGame2_merc_2</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <!-- 2 merc sts wolven -->
@@ -311,14 +311,14 @@
 #include "gameplay\profiles\character_desc_ecolog_4f.xml"
     <icon>ui_inGame2_mercsun_old</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_4_lass_3" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_4f.xml"
     <icon>ui_inGame2_mercsun_old</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
 </specific_character>
 
 <!-- 1 eco proto -->

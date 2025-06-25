@@ -11,7 +11,7 @@
 #include "gameplay\profiles\character_desc_killer_0f.xml"
     <icon>ui_inGame2_merc_2</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <!-- 2 merc lcs fighter -->
@@ -66,7 +66,7 @@
 #include "gameplay\profiles\character_desc_killer_0f.xml"
     <icon>ui_inGame2_merc_sun1_merc</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
 </specific_character>
 
 
@@ -83,7 +83,7 @@
 #include "gameplay\profiles\character_desc_killer_1f.xml"
     <icon>ui_inGame2_merc_2</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <specific_character id="sim_default_killer_1_lass_2" team_default = "1">
@@ -97,7 +97,7 @@
 #include "gameplay\profiles\character_desc_killer_1f.xml"
     <icon>ui_inGame2_merc_2</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <specific_character id="sim_default_killer_1_lass_4" team_default = "1">
@@ -111,7 +111,7 @@
 #include "gameplay\profiles\character_desc_killer_1f.xml"
     <icon>ui_inGame2_merc_2</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <specific_character id="sim_default_killer_1_lass_6" team_default = "1">
@@ -125,7 +125,7 @@
 #include "gameplay\profiles\character_desc_killer_1f.xml"
     <icon>ui_inGame2_merc_2</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <!-- 2 merc lcs fighter -->
@@ -181,7 +181,7 @@
 #include "gameplay\profiles\character_desc_killer_1f.xml"
     <icon>ui_inGame2_merc_sun1_merc</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
 </specific_character>
 
 <!-- 1 merc nbc -->
@@ -206,7 +206,7 @@
 #include "gameplay\profiles\character_desc_killer_2f.xml"
     <icon>ui_inGame2_merc_2</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <specific_character id="sim_default_killer_2_lass_2" team_default = "1">
@@ -220,7 +220,7 @@
 #include "gameplay\profiles\character_desc_killer_2f.xml"
     <icon>ui_inGame2_merc_2</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <specific_character id="sim_default_killer_2_lass_4" team_default = "1">
@@ -234,7 +234,7 @@
 #include "gameplay\profiles\character_desc_killer_2f.xml"
     <icon>ui_inGame2_merc_2</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <specific_character id="sim_default_killer_2_lass_6" team_default = "1">
@@ -248,7 +248,7 @@
 #include "gameplay\profiles\character_desc_killer_2f.xml"
     <icon>ui_inGame2_merc_2</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <!-- 2 merc lcs fighter -->
@@ -296,7 +296,7 @@
 #include "gameplay\profiles\character_desc_killer_2f.xml"
     <icon>ui_inGame2_merc_sun1_merc</icon>
     <snd_config>characters_voice\human\woman_merc\</snd_config>
-    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+    <visual>actors\mnp_npc_remeik\merc_meshanik</visual>
 </specific_character>
 
 <!-- 1 merc ibaz -->
