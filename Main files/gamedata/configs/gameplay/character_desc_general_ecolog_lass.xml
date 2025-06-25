@@ -3,7 +3,7 @@
 <specific_character id="sim_default_ecolog_0_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_0f.xml"
     <icon>ui_inGame2_ecolog_guard_blue</icon>
-    <snd_config>characters_voice\human\stalker_3\</snd_config>
+    <snd_config>characters_voice\human\woman\</snd_config>
     <visual>actors\stalker_ecologist\stalker_ecolog_guard</visual>
 </specific_character>
 
@@ -11,7 +11,7 @@
 <specific_character id="sim_default_ecolog_0_lass_1" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_0f.xml"
     <icon>ui_inGame2_neutral_2</icon>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
     <visual>actors\o_explorer\stalker_f_neutral_6</visual>
 </specific_character>
 
@@ -21,42 +21,42 @@
 #include "gameplay\profiles\character_desc_ecolog_01f.xml"
     <icon>ui_inGame2_ecolog_orange</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_orange</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_01_lass_1" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_01f.xml"
     <icon>ui_inGame2_ecolog_white</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_white</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_01_lass_2" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_01f.xml"
     <icon>ui_inGame2_ecolog_blue</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_blue</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_01_lass_3" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_01f.xml"
     <icon>ui_inGame2_ecolog_green</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_green</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_01_lass_4" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_01f.xml"
     <icon>ui_inGame2_ecolog_yellow</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_yellow</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_01_lass_5" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_01f.xml"
     <icon>ui_inGame2_ecolog_red</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_red</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 
@@ -65,42 +65,42 @@
 #include "gameplay\profiles\character_desc_ecolog_1f.xml"
     <icon>ui_inGame2_ecolog_orange</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_orange</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_1_lass_1" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_1f.xml"
     <icon>ui_inGame2_ecolog_white</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_white</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_1_lass_2" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_1f.xml"
     <icon>ui_inGame2_ecolog_blue</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_blue</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_1_lass_3" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_1f.xml"
     <icon>ui_inGame2_ecolog_green</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_green</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_1_lass_4" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_1f.xml"
     <icon>ui_inGame2_ecolog_yellow</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_yellow</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_1_lass_5" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_1f.xml"
     <icon>ui_inGame2_ecolog_red</icon>
     <visual>actors\stalker_ecologist\ecolog_f_outfit_red</visual>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
 </specific_character>
 
 
@@ -269,7 +269,7 @@
 <specific_character id="sim_default_ecolog_3_lass_3" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_3f.xml"
     <icon>ui_inGame2_merc_2</icon>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
     <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
@@ -277,7 +277,7 @@
 <specific_character id="sim_default_ecolog_3_lass_4" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_3f.xml"
     <icon>ui_inGame2_mercsun_old</icon>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_merc</visual>
 </specific_character>
 
@@ -295,14 +295,14 @@
 <specific_character id="sim_default_ecolog_4_lass_0" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_4f.xml"
     <icon>ui_inGame2_merc_2</icon>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
     <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_4_lass_1" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_4f.xml"
     <icon>ui_inGame2_merc_2</icon>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
     <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
 </specific_character>
 
@@ -310,14 +310,14 @@
 <specific_character id="sim_default_ecolog_4_lass_2" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_4f.xml"
     <icon>ui_inGame2_mercsun_old</icon>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_merc</visual>
 </specific_character>
 
 <specific_character id="sim_default_ecolog_4_lass_3" team_default = "1">
 #include "gameplay\profiles\character_desc_ecolog_4f.xml"
     <icon>ui_inGame2_mercsun_old</icon>
-    <snd_config>characters_voice\human\woman\</snd_config>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
     <visual>actors\o_sts\stalker_f_sts_merc</visual>
 </specific_character>
 
