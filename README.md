@@ -8,39 +8,30 @@ This project intends to take those LASS models, and add them to the NPC spawn po
 
 Requirements:
 
--LASS: https://github.com/Paint-Thinner/Ladies-and-Sister-Stalkers-LASS
+- LASS: https://github.com/Paint-Thinner/Ladies-and-Sister-Stalkers-LASS
 
--War Nymph: https://www.moddb.com/mods/stalker-anomaly/addons/war-nymph
+- War Nymph: https://www.moddb.com/mods/stalker-anomaly/addons/war-nymph
 
 
-Done:
+Current features:
+- Female stalkers should spawn at every rank for every faction.
+- Models fixed to provide NPCs the correct protection (at least as far as the current vanilla limits allow).
+- Missing LASS models: ISG SKAT, eco radsuit, Sin protoexo.
+- Death_outfits.ltx file. Female NPCs should drop the respective outfit to their model.
+- Duty Expansion patch: Anna can be assigned the more vanilla like IBAZ or SKAT models.
+- Kolin patch: half the mercs in LCS will use the Kolin model.
 
--Female stalkers should spawn at every rank for every faction.
-
--Models fixed to provide NPCs the correct protection.
-
--Missing LASS models: ISG SKAT, eco radsuit, Sin protoexo.
-
--Death_outfits.ltx file. Female NPCs should drop the respective outfit to their model.
-
+Current stopgag measures:
+- One model replacement, and placeholder name and voice sets files taken from Women of the Zone by Karelian. Credits to them. https://www.moddb.com/mods/stalker-anomaly/addons/women-of-the-zone
 
 To do:
-
--Proper name files.
-
--Proper audio. Anomaly has its default female set for Hip, but that's not enough.
-
-Women of the Zone has an ecolog_f set we could use. LASS also has an addon for either English or Russian voice, but I haven't checked if they're ready to use for NPCs.
-
--Make sure the the models have all their textures. I think they did in OGF Editor but the texture folder I settled for it didn't have all vanilla textures.
+- Proper name files.
+- Proper voice sets.
+- Make sure the the models have all their textures. I think they did in OGF Editor but the texture folder I settled for it didn't have all vanilla textures.
 
 
 Maybes:
-
--Service NPCs. Techs, traders, etc. We can fill the gaps like WotZ did in the Dark Valley bandit HQ with a female medic, but the rest is harder as there are already named NPCs. Maybe make them take turns with something like Semi Radiant AI?
-
--Named NPCs. This includes non-service NPCs: guards, task givers, roaming stalkers... for fleshing out the population.
-
--Mod patches. This depends on the mod and extension of the patching. Duty Expansion could have Anna use one of the LASS models as asked by someone else, for consistency reasons. Kolin could be patched so half the LCS wearing female mercs use its model.
-
--????
+- Service NPCs. Techs, traders, etc. We can fill the gaps like WotZ did in the Dark Valley bandit HQ with a female medic, but the rest is harder as there are already named NPCs. Maybe make them take turns with something like Semi Radiant AI?
+- Named NPCs. This includes non-service NPCs: guards, task givers, roaming stalkers... for fleshing out the population.
+- Mod patches. This depends on the mod and extension of the patching.
+- ????
