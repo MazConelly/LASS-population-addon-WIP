@@ -15,13 +15,13 @@ Requirements:
 
 Done:
 
--character_desc_general files. You should find female loners at every rank for every faction.
+-Female stalkers should spawn at every rank for every faction.
 
 -Models fixed to provide NPCs the correct protection.
 
 -Missing LASS models: ISG SKAT, eco radsuit, Sin protoexo.
 
--Death_outfits.ltx file. NPCs should drop the respective outfit to their model.
+-Death_outfits.ltx file. Female NPCs should drop the respective outfit to their model.
 
 
 To do:
