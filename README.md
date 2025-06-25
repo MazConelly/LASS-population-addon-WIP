@@ -19,7 +19,7 @@ Done:
 
 -Models fixed to provide NPCs the correct protection.
 
--Missing LASS models.
+-Missing LASS models: ISG SKAT, eco radsuit, Sin protoexo.
 
 -Death_outfits.ltx file. NPCs should drop the respective outfit to their model.
 
