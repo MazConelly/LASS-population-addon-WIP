@@ -27,7 +27,7 @@ Current stopgag measures:
 To do:
 - Proper name files.
 - Proper voice sets.
-- Make sure the the models have all their textures. I think they did in OGF Editor but the texture folder I settled for it didn't have all vanilla textures.
+- Model fixing. They have two issues: increased number of materials, and use of non-vanilla textures. Ideally the materials would be reduced, but I'm unskilled in Blender. Changing textures is tedious and vanilla textures may be of lower quality, but it'd be preferable to require assets from other mods.
 
 
 Maybes:
